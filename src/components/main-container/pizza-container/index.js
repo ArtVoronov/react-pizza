@@ -7,7 +7,6 @@ const data = require("./content.json");
 
 export default class PizzaContainer extends Component {
   render() {
-    console.log(process.env);
     return (
       <ul>
         {data.map((item, index) => (

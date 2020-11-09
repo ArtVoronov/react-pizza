@@ -10,7 +10,8 @@ export default class Button extends Component {
 
   changeText = () => {
     this.setState({
-      text: this.state.text === "Order" ? this.props.buttonText : "Order",
+      text:
+        this.state.text === "В корзину" ? this.props.buttonText : "В корзину",
     });
   };
 

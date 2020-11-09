@@ -1,11 +1,14 @@
 .pizza-item {
-    border: solid rgba(251, 217, 64, 0.726) 3px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    border: solid #fbd940 3px;
+    box-shadow: 0 3px 20px rgba(0,0,0,0.5);
     margin: 1em;
-    padding: 3em;
+    padding: 3em 0.25em;
 
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
+}
+.price-container{
+    padding: 2em 0;
 }
