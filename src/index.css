@@ -1,0 +1,14 @@
+body{
+    position: relative;
+    overflow-x: hidden;
+    z-index: 1;
+    background:rgba(255, 255, 255, 0.1);
+}
+
+/* body::before{
+    z-index: -1;
+    position: absolute;
+    left: 0;
+    top:0;
+    opacity: 0.3;
+} */
