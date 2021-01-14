@@ -1,0 +1,79 @@
+[
+    {
+        "name": "Чизбургер",
+        "image": "./assets/img/cheaseBurger.jpg",
+        "priceS": 16.8,
+        "priceM": 22.8,
+        "priceL": 26.8
+    },
+    {
+        "name": "Чикенбургер",
+        "image": "./assets/img/chickenBarbeq.jpg",
+        "priceS": 16.8,
+        "priceM": 22.8
+    },
+    {
+        "name": "Сырный цыпленок",
+        "image": "./assets/img/chickenCheese.jpg",
+        "priceS": 16.8,
+        "priceM": 22.8,
+        "priceL": 26.8
+    },
+    {
+        "name": "Цыпленок ранч",
+        "image": "./assets/img/chickenRanch.jpg",
+        "priceS": 16.8,
+        "priceM": 22.8
+    },
+    {
+        "name": "4 сезона",
+        "image": "./assets/img/fourSeasons.jpg",
+        "priceM": 22.8,
+        "priceL": 26.8
+    },
+    {
+        "name": "Ветчина и грибы",
+        "image": "./assets/img/hamAndMushrooms.jpeg",
+        "priceS": 16.8,
+        "priceM": 22.8,
+        "priceL": 26.8
+    },
+    {
+        "name": "Гавайская",
+        "image": "./assets/img/hawaii.jpg",
+        "priceM": 22.8
+    },
+    {
+        "name": "Мясная",
+        "image": "./assets/img/meat.jpg",
+        "priceS": 16.8,
+        "priceM": 22.8,
+        "priceL": 26.8
+    },
+    {
+        "name": "Пеперони",
+        "image": "./assets/img/peperoni.jpg",
+        "priceS": 16.8,
+        "priceM": 22.8,
+        "priceL": 26.8
+    },
+    {
+        "name": "Пеперони Фреш",
+        "image": "./assets/img/PepFresh.jpeg",
+        "priceS": 16.8,
+        "priceL": 26.8
+    },
+    {
+        "name": "Деревенская",
+        "image": "./assets/img/village.jpeg",
+        "priceS": 16.8,
+        "priceL": 26.8
+    },
+    {
+        "name": "Мясо и сыр",
+        "image": "./assets/img/meatAndCheese.jpg",
+        "priceS": 16.8,
+        "priceM": 22.8,
+        "priceL": 26.8
+    }
+]
